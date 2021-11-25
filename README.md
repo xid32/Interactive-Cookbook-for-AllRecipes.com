@@ -1,0 +1,2 @@
+# Interactive-Cookbook-for-AllRecipes.com
+Created a recipe transformer which is able to fetch web pages from AllRecipes.com; recognize Ingredients, Tools, Methods, and Steps sections from the web pages; and offer suggestions for converting the recipes based on user preferences such as vegetarian restrictions, healthy eating restrictions, and cooking method restrictions, using requests, nltk, and bs4
