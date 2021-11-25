@@ -1,0 +1,208 @@
+{
+    "directions": [
+        {
+            "action": "Heat the olive oil in a large skillet with a lid over medium-high heat",
+            "ingredients": [
+                "extra-virgin olive oil"
+            ],
+            "methods": [],
+            "time": {},
+            "tools": [
+                "skillet",
+                "lid"
+            ]
+        },
+        {
+            "action": " Season the chicken with salt and pepper, and cook in the hot oil until golden brown around the edges, but still pink in the center, about 5 minutes",
+            "ingredients": [
+                "extra-virgin olive oil",
+                "chicken breast tenderloins",
+                "salt and pepper to taste",
+                "chicken stock"
+            ],
+            "methods": [
+                "brown"
+            ],
+            "time": {
+                "138": " 5 minute"
+            },
+            "tools": []
+        },
+        {
+            "action": " Stir in the onion, and cook for about 3 minutes more",
+            "ingredients": [
+                "salt and pepper to taste",
+                "onion"
+            ],
+            "methods": [],
+            "time": {
+                "38": " 3 minute"
+            },
+            "tools": []
+        },
+        {
+            "action": " Pour in the balsamic vinegar, bring it to a simmer, and allow it to reduce for a few minutes",
+            "ingredients": [
+                "salt and pepper to taste",
+                "balsamic vinegar"
+            ],
+            "methods": [
+                "simmer",
+                "reduce"
+            ],
+            "time": {},
+            "tools": [
+                "simmer"
+            ]
+        },
+        {
+            "action": "Cut half of the apricots in half, leaving the others whole",
+            "ingredients": [
+                "dried apricots",
+                "apricot preserves"
+            ],
+            "methods": [],
+            "time": {},
+            "tools": []
+        },
+        {
+            "action": " Place the apricots into the skillet, and pour in the chicken stock",
+            "ingredients": [
+                "chicken breast tenderloins",
+                "salt and pepper to taste",
+                "dried apricots",
+                "chicken stock",
+                "apricot preserves"
+            ],
+            "methods": [],
+            "time": {},
+            "tools": [
+                "skillet"
+            ]
+        },
+        {
+            "action": " Bring to a simmer, then stir in the apricot preserves and thyme",
+            "ingredients": [
+                "salt and pepper to taste",
+                "apricot preserves",
+                "chopped fresh thyme"
+            ],
+            "methods": [
+                "simmer",
+                "stir"
+            ],
+            "time": {},
+            "tools": [
+                "simmer"
+            ]
+        },
+        {
+            "action": " Reduce the heat to medium-low, cover, and simmer until the apricots have softened, 10 to 15 minutes",
+            "ingredients": [
+                "salt and pepper to taste",
+                "dried apricots",
+                "apricot preserves"
+            ],
+            "methods": [
+                "simmer"
+            ],
+            "time": {
+                "84": "10 to 15 minutes",
+                "89": " 15 minute"
+            },
+            "tools": [
+                "simmer"
+            ]
+        },
+        {
+            "action": " Sprinkle with chopped parsley to serve",
+            "ingredients": [
+                "salt and pepper to taste",
+                "chopped fresh thyme",
+                "chopped fresh flat-leaf parsley"
+            ],
+            "methods": [
+                "chop"
+            ],
+            "time": {},
+            "tools": []
+        }
+    ],
+    "ingredients": [
+        {
+            "ingredient_name": "extra-virgin olive oil",
+            "measurement": "tablespoons",
+            "preparation": "",
+            "quantity": "2"
+        },
+        {
+            "ingredient_name": "chicken breast tenderloins",
+            "measurement": "pounds",
+            "preparation": "cut into bite-size pieces",
+            "quantity": "2"
+        },
+        {
+            "ingredient_name": "salt and pepper to taste",
+            "measurement": "",
+            "preparation": "",
+            "quantity": ""
+        },
+        {
+            "ingredient_name": "onion",
+            "measurement": "large",
+            "preparation": "chopped",
+            "quantity": "1"
+        },
+        {
+            "ingredient_name": "balsamic vinegar",
+            "measurement": "cup",
+            "preparation": "or to taste",
+            "quantity": "\u00bc"
+        },
+        {
+            "ingredient_name": "dried apricots",
+            "measurement": "",
+            "preparation": "",
+            "quantity": "20"
+        },
+        {
+            "ingredient_name": "chicken stock",
+            "measurement": "cup",
+            "preparation": "",
+            "quantity": "1"
+        },
+        {
+            "ingredient_name": "apricot preserves",
+            "measurement": "cup",
+            "preparation": "",
+            "quantity": "1"
+        },
+        {
+            "ingredient_name": "chopped fresh thyme",
+            "measurement": "tablespoon",
+            "preparation": "",
+            "quantity": "1"
+        },
+        {
+            "ingredient_name": "chopped fresh flat-leaf parsley",
+            "measurement": "tablespoons",
+            "preparation": "",
+            "quantity": "3"
+        }
+    ],
+    "methods": [
+        "simmer",
+        "brown",
+        "reduce",
+        "season",
+        "stir",
+        "sprinkle",
+        "chop"
+    ],
+    "name": "apricot-chicken-with-balsamic-vinegar",
+    "tools": [
+        "skillet",
+        "lid",
+        "simmer"
+    ]
+}
