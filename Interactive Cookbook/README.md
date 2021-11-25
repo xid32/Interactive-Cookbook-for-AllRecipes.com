@@ -1,9 +1,3 @@
-# CS337_Proj3
-
-
-## Repository link:
-* https://github.com/xid32/CS337_Proj3
-
 ## Setup(Please make sure your python version higher than 3.9)
 * ```sh
   python3 -m venv virtualenv
